@@ -10,6 +10,3 @@ export default defineConfig({
     },
   },
 })
-git add vite.config.js
-git commit -m "add vite alias config"
-git push
